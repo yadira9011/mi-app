@@ -13,11 +13,12 @@ const dataz = [
 ];
 
 const data = [
-  { titulo: "Tarjeta Base", descripcion: "Esta es la tarjeta de ejemplo." },
-  { titulo: "Juan", descripcion: "Soy parte del equipo 1." },
-  { titulo: "María", descripcion: "Mi tarjeta personalizada." }
+  { titulo: "Tarjeta Base", descripcion: "Esta es la tarjeta de ejemplo." }
 ];
 
+const dataa = [
+  { titulo: "Tarjeta de oresentación", descripcion: "Miguel" }
+];
 
 function App() {
   return (
