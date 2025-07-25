@@ -15,8 +15,10 @@ const dataz = [
 const data = [
   { titulo: "Tarjeta Base", descripcion: "Esta es la tarjeta de ejemplo." },
   { titulo: "Juan", descripcion: "Soy parte del equipo 1." },
-  { titulo: "María", descripcion: "Mi tarjeta personalizada." }
+  { titulo: "María", descripcion: "Mi tarjeta personalizada." },
+  {Titulo: "Oriakcito", descripcion: "Oriak estuvo aquí"}
 ];
+
 
 
 function App() {
