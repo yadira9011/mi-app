@@ -18,6 +18,7 @@ const data = [
   { titulo: "Tarjeta Base", descripcion: "Esta es la tarjeta de ejemplo." },
   { titulo: "Juan", descripcion: "Soy parte del equipo 1." },
   { titulo: "María", descripcion: "Mi tarjeta personalizada." },
+  {titulo: "Fernando", descripción: "actividad react."}
   {Titulo: "Oriakcito", descripcion: "Oriak estuvo aquí"},
   { titulo: "Tarjeta de oresentación", descripcion: "Miguel" }
 
@@ -36,3 +37,4 @@ function App() {
   );
 }
 export default App;
+ 
